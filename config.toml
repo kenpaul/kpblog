@@ -1,6 +1,6 @@
 baseURL = "https://kenpaul.github.io"
 languageCode = "en-us"
-title = "KP's Hugo Site for Blogs"
+title = "KP's Blogs"
 theme = "ananke"
 
 
